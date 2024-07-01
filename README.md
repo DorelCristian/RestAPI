@@ -1,4 +1,4 @@
-#Spring + Hibernate
+# Spring + Hibernate
 Acesta este proiectul de backend al aplicației
 
 ## Link către Frontend
